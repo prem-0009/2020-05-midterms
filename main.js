@@ -13,7 +13,7 @@ const capitalizeSentences = function (sentence) {
 };
 
 //2
-//empty space not working
+
 const isValidPassword = function (password) {
   let result = true;
   if (password.length < 12) {
